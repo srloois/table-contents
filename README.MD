@@ -38,7 +38,7 @@ PHP 7.1
 ```
 Or install it by running this command in your project root:
 ```
-composer require lutdev/table-contents
+composer require srloois/table-contents
 ```
 
 2. PHP class 
